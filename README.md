@@ -1,40 +1,36 @@
-## Hi there, I'm Yasir! 👋
+# Hi 👋 I'm [Your Name/Yasir]
 
-Welcome to my GitHub profile! I am a passionate developer who loves building, learning, and creating cool projects. 
-
----
-
-### 👨‍💻 About Me
-
-* 🔭 I’m currently working on: [Add your current project here]
-* 🌱 I’m currently learning: [Add technologies or frameworks you are studying]
-* 👯 I’m looking to collaborate on: [Add open source projects or types of apps]
-* 💬 Ask me about: [Add your strongest skills or interests]
-* 📫 How to reach me: [Add your email or LinkedIn profile link]
-* ⚡ Fun fact: [Add a hobby or a quirky fact about yourself]
+💻 Java Developer | Spring Boot Learner | Backend Enthusiast
+🚀 Building projects and improving problem-solving every day
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 👤 About Me
 
-* **Languages:** [e.g., Python, JavaScript, C++, etc.]
-* **Frontend:** [e.g., HTML, CSS, React, etc.]
-* **Backend:** [e.g., Node.js, Express, Django, etc.]
-* **Tools:** [e.g., Git, Docker, VS Code, Linux]
-
----
-
-### 🚀 Top Projects
-
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Project 1 Name](Link to project)** | A short description of what it does. | React, Node.js |
-| **[Project 2 Name](Link to project)** | A short description of what it does. | Python, Django |
+* 🔭 I’m currently working on building robust backend applications using **Java** and **Spring Boot**.
+* 🌱 I’m currently diving deeper into **RESTful APIs, Microservices, and Database Management**.
+* 👯 I’m looking to collaborate on exciting backend projects or open-source Java repositories.
+* 💬 Ask me about **Java, Object-Oriented Programming, and Backend Architecture**.
+* 📫 How to reach me: [Insert your LinkedIn or Email link here]
+* ⚡ Fun fact: [Insert a fun fact about your coding journey or hobbies]
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirsandarwale3-maker&show_icons=true&theme=radium)
+**Languages:** 
+* Java, SQL
+
+**Frameworks & Tools:**
+* Spring Boot, Hibernate, Maven, Git, GitHub
+
+**Databases:**
+* MySQL, PostgreSQL
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirsandarwale3-maker&show_icons=true&theme=radium)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirsandarwale3-maker&layout=compact&theme=radium)
